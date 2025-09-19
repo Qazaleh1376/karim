@@ -1,0 +1,7 @@
+@media (min-width: 1200px) and (max-width: 1400px) {
+    div.box {
+      width: 100%;
+      height: 100px;
+      background-color: lime;
+    }
+  }

@@ -1,0 +1,7 @@
+@media (max-width: 576px) {
+    div.box {
+      width: 100%;
+      height: 100px;
+      background-color: crimson;
+    }
+  }
